@@ -5,7 +5,10 @@ You can use the [editor on GitHub](https://github.com/sobandov/Ensayo/edit/gh-pa
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Esto es un ensayo para ver si cambian las cosas
+### vamos a poner una imagen
+Para poner las imagenes, debes subirlas a la carpeta de GitHub donde esta el proyecto, luego, debes insertarlas de la siguiente manera
 
+![Imagen de ensayo para subir fotos](https://raw.githubusercontent.com/sobandov/Ensayo/gh-pages/7bad9cd5249a95bb2a1f562923108a92.jpg "un lindo paisaje")
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
