@@ -9,7 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Para poner las imagenes, debes subirlas a la carpeta de GitHub donde esta el proyecto, luego, debes insertarlas de la siguiente manera
 
 ![Imagen de ensayo para subir fotos](https://raw.githubusercontent.com/sobandov/Ensayo/gh-pages/7bad9cd5249a95bb2a1f562923108a92.jpg "un lindo paisaje")
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+![Documento de esanyo para ver como funcionan las descargas](https://drive.google.com/file/d/11vbtW4roDZL7P7-M8bJua1cFuuXytqgJ/view?usp=sharing "las abuelas tenian razon")
 
 ```markdown
 Syntax highlighted code block
