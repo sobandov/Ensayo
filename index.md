@@ -14,6 +14,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [Documento de esanyo para ver como funcionan las descargas](https://drive.google.com/file/d/11vbtW4roDZL7P7-M8bJua1cFuuXytqgJ/view?usp=sharing)
 
+Ensayo de una Tabla
+
+
+| Researcher  | email | Google Scholar | ResearchGate |
+| ------------- | ------------- |-------------| -------------|
+| Raul Castaneda | *rcstdq@memphis.edu* | [RaulGoogle](https://scholar.google.com/citations?user=RBtkL1oAAAAJ&hl=en) | [RaulResearch](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)
+| Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [AnaResearch](https://www.researchgate.net/profile/Ana_Doblas2) |
+
 ```markdown
 Syntax highlighted code block
 
