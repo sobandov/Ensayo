@@ -12,7 +12,7 @@ Para poner las imagenes, debes subirlas a la carpeta de GitHub donde esta el pro
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![Documento de esanyo para ver como funcionan las descargas](https://drive.google.com/file/d/11vbtW4roDZL7P7-M8bJua1cFuuXytqgJ/view?usp=sharing "las abuelas tenian razon")
+[Documento de esanyo para ver como funcionan las descargas](https://drive.google.com/file/d/11vbtW4roDZL7P7-M8bJua1cFuuXytqgJ/view?usp=sharing)
 
 ```markdown
 Syntax highlighted code block
