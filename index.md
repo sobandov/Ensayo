@@ -28,6 +28,7 @@ Ensayo de una Tabla
 
 <img src="https://render.githubusercontent.com/render/math?math=M=\begin{bmatrix}m_{00}&m_{01}&m_{02}&m_{03}\\m_{10}&m_{11}&m_{12}&m_{13}\\m_{20}&m_{21}&m_{22}&m_{23}\\m_{30}&m_{31}&m_{32}&m_{33} \end{bmatrix}">
 
+<img src="https://latex.codecogs.com/gif.latex?M=\begin{bmatrix}m_{00}&m_{01}&m_{02}&m_{03}\\m_{10}&m_{11}&m_{12}&m_{13}\\m_{20}&m_{21}&m_{22}&m_{23}\\m_{30}&m_{31}&m_{32}&m_{33}&space;\end{bmatrix}" title="M=\begin{bmatrix}m_{00}&m_{01}&m_{02}&m_{03}\\m_{10}&m_{11}&m_{12}&m_{13}\\m_{20}&m_{21}&m_{22}&m_{23}\\m_{30}&m_{31}&m_{32}&m_{33} \end{bmatrix}" />
 
 ```markdown
 Syntax highlighted code block
