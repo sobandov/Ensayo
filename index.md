@@ -22,6 +22,12 @@ Ensayo de una Tabla
 | Raul Castaneda | *rcstdq@memphis.edu* | [RaulGoogle](https://scholar.google.com/citations?user=RBtkL1oAAAAJ&hl=en) | [RaulResearch](https://www.researchgate.net/profile/Raul_Castaneda_Quintero)
 | Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) | [AnaResearch](https://www.researchgate.net/profile/Ana_Doblas2) |
 
+### ensayo de matematicas 
+
+<img src="https://render.githubusercontent.com/render/math?math=M=\begin{bmatrix}
+m_00&m_01&m_02&m_03\\m_10&m_11&m_12&m_13\\m_20&m_21&m_22&m_23\\m_30&m_31&m_32&m_33\end{bmatrix} ">
+
+
 ```markdown
 Syntax highlighted code block
 
